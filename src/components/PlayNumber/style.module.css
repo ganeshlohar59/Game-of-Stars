@@ -1,0 +1,19 @@
+.play_number_button {
+  background-color: #edf3fb;
+  outline: none;
+  border: none;
+  width: 65px;
+  height: 65px;
+  margin: 7px;
+
+  display: inline-block;
+
+  /* Border */
+  border-radius: 10px;
+
+  /* Font Style */
+  font-size: 26px;
+  font-weight: 600;
+
+  cursor: pointer;
+}

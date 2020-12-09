@@ -1,0 +1,5 @@
+.game_finish_layout {
+  width: 100%;
+  z-index: 1;
+  cursor: point;
+}

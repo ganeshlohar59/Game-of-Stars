@@ -1,0 +1,7 @@
+.star {
+  width: 65px;
+  height: 65px;
+  display: inline-block;
+  margin: 5px;
+  transition-duration: 0.3s;
+}
