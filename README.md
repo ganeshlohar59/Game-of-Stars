@@ -1,5 +1,5 @@
-#Game-of-Stars Play Now \
-Open [http://www.game-of-stars.web.app](http://localhost:3000)
+# Game-of-Stars Play Now \
+[https://game-of-stars.web.app](http://localhost:3000)
 
 # Getting Started with Create React App
 
